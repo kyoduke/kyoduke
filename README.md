@@ -3,10 +3,10 @@
 > *Este README foi gerado com a ajuda de uma inteligência artificial que adora café e código! ☕💻*
 
 🎓 **Cursando Engenharia de Software**  
-Estudante de Engenharia de Software na Universidade de Vassouras, apaixonado por tecnologia e desenvolvimento de software.
+Estudante de Engenharia de Software na Universidade de Vassouras.
 
 💻 **Foco em Backend**  
-Tenho uma forte preferência pela área de backend, onde tenho concentrado meus estudos e projetos. Atualmente, estou focado em **Django** para o desenvolvimento de aplicações web robustas e escaláveis.
+Tenho uma forte preferência pela área de backend, onde tenho concentrado meus estudos e projetos. Atualmente, estou focado em **Django** para o desenvolvimento de aplicações web.
 
 🔧 **Habilidades Técnicas**  
 - **Linguagens:** Python
