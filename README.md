@@ -6,11 +6,11 @@
 Estudante de Engenharia de Software na Universidade de Vassouras.
 
 💻 **Foco em Backend**  
-Tenho uma forte preferência pela área de backend, onde tenho concentrado meus estudos e projetos. Atualmente, estou focado em **Django** para o desenvolvimento de aplicações web.
+Tenho uma forte preferência pela área de backend, onde tenho concentrado meus estudos e projetos.
 
 🔧 **Habilidades Técnicas**  
-- **Linguagens:** Python
-- **Frameworks:** Django, Node.js com Express
+- **Linguagens:** Python, Typescript
+- **Frameworks:** Django, FastAPI, Node.js com Express
 - **Bancos de Dados:** PostgreSQL, MongoDB
 - **Ferramentas e Tecnologias:** Docker, Git, Pytest
 
